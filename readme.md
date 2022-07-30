@@ -1,8 +1,11 @@
 ### Hi there 👋 Nice to see u.
 
-- 😄 My name is: yourname ...
-- ⚡ Student id: ...
+- 😄 My name is: Anutsara Chalermchokamnuay
+- ⚡ Student id: 63367308
 - 🔭 I'm currently studying on Faculty of Engineering.
+- 👩🏻‍💻 In the future I want to be Application Developer.
+- 📚 I'm good at Algorithm Analysis and Design and Interested in Theory      of computation.
+
 
 ## Developer Tech
 
